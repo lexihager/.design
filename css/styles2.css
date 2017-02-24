@@ -104,7 +104,7 @@ body {
 
 span#vid {
   position: absolute;
-  top:750%;
+  top:625%;
   left:68%;
   width:1000px;
   height:400px;
@@ -115,7 +115,7 @@ span#vid {
 
 span#vid2 {
   position: absolute;
-  top:447%;
+  top:377%;
   left:68.5%;
   width:1000px;
   height:400px;
