@@ -219,6 +219,28 @@ span#vid2:hover {
   z-index: 100; 
 }
 
+#about {
+  position: relative;
+  left:79.1%;
+    width:500px;
+    height:30px; 
+    margin-left:-250px; /* half the width */  
+  z-index: 100; 
+}
+
+#contact {
+  position: relative;
+  left:49.1%;
+    width:500px;
+    height:30px; 
+    margin-left:-250px; /* half the width */  
+  z-index: 100; 
+  font-family: Prompt;
+  font-weight: 100;
+  font-size: 48px;
+  letter-spacing: 2px;
+}
+
 
 
 
