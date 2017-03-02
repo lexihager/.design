@@ -30,8 +30,12 @@ body {
 
 .name {
   position: absolute;
-  top:5%;
-  left:25%;
+  top: 12%;
+  left:49.1%;
+    width:500px;
+    height:30px;
+    margin-left:-255px; /* half the width */  
+  z-index: 100; 
 }
 
 .info {
@@ -49,7 +53,7 @@ body {
 .line1 {
   position: absolute;
   top:25%;
-  right:16%;
+  right:15.5%;
   width: 70%;
   height: 1%;
  	border-style: solid none solid none;
