@@ -30,11 +30,12 @@ body {
 
 .name {
   position: absolute;
-  top: 12%;
+  top: 11%;
   left:49.1%;
     width:500px;
     height:30px;
-    margin-left:-255px; /* half the width */  
+    margin-left:-255px; 
+    margin-top: 15px; 
   z-index: 100; 
 }
 
