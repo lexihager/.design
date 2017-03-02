@@ -242,6 +242,16 @@ span#vid2:hover {
 }
 
 
+#light {
+  position: relative;
+  left:49.1%;
+    width:500px;
+    height:30px; 
+    margin-left:-250px; /* half the width */  
+  z-index: 100; 
+}
+
+
 
 
 
